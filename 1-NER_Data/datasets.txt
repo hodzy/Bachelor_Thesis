@@ -1,0 +1,16 @@
+-> CoNLL 2003 ++ Dataset			
+	-> https://github.com/ZihanWangKi/CrossWeigh
+
+-> wikineural 
+	-> https://github.com/Babelscape/wikineural	(get only WikiNEuRal without CoNLL because you will get conll from above)
+
+-> wnut 17 data set
+	-> https://huggingface.co/datasets/wnut_17
+	-> https://github.com/leondz/emerging_entities_17
+
+-> OntoNotes 5.0
+	-> https://github.com/nsu-ai/ontonotes-5-parsing (for parsing)
+	-> https://catalog.ldc.upenn.edu/organization/downloads (to download dataset)
+	
+
+
