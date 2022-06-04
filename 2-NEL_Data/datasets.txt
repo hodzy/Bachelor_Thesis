@@ -1,0 +1,9 @@
+https://github.com/debayan/pnel/tree/master/eval
+
+
+simple_questions_v2
+	https://github.com/askplatypus/wikidata-simplequestions
+
+
+look into later:
+	https://github.com/UKPLab/starsem2018-entity-linking

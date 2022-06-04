@@ -1,3 +1,4 @@
 /1-NER_Data/0-raw_data/*
-/2-NEL_Data/*
+/2-NEL_Data/TREx.zip
+/2-NEL_Data/trex_sample.json
 /test_trainer/*
