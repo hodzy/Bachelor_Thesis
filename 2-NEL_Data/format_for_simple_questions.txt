@@ -1,0 +1,17 @@
+question      -> 	what movie is produced by warner brothers
+target_entity -> 	Q126399	
+entity_from_NER -> 	label from step 2
+
+1- search target_id and get label from wikidata api
+2- response from the wikidata api - id,label,description    -> from that we need the "label" 
+	-> this is the entity_from_NER  
+3- take the "label" and pass it to wikidata api and it will do a string search on the database and this will return us various candidates for our search string (ex. warner brothers)
+4- let's say we get 4 candidates for "warner brothers" lets say they (c1, c2, c3, c4)
+5- each of the candidates will have the information -id,label,description- 
+
+
+
+prefix 			input 											target		
+		
+nel 			question + entity_from_NER + wikidata_api_output(c1, c2, c3, c4)			target_entity
+														
