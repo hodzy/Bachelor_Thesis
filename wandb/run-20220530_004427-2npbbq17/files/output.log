@@ -1,0 +1,22 @@
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+early stopping required metric_for_best_model, but did not find eval_f1 so early stopping is disabled
+Saving model checkpoint to test_trainer/checkpoint-500
+Configuration saved in test_trainer/checkpoint-500/config.json
+Model weights saved in test_trainer/checkpoint-500/pytorch_model.bin
+PyTorch: setting up devices
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/transformers/optimization.py:309: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use thePyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  FutureWarning,
+***** Running training *****
+  Num examples = 159095
+  Num Epochs = 3
+  Instantaneous batch size per device = 4
+  Total train batch size (w. parallel, distributed & accumulation) = 16
+  Gradient Accumulation steps = 1
+  Total optimization steps = 29832
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '

@@ -2,3 +2,5 @@
 /2-NEL_Data/TREx.zip
 /2-NEL_Data/trex_sample.json
 /test_trainer/*
+/test_trainer_with_val/*
+/lower_test_trainer_with_val/*

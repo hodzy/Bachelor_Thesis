@@ -1,0 +1,138 @@
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+loading file https://huggingface.co/t5-base/resolve/main/spiece.model from cache at /home/HadyElkady/.cache/huggingface/transformers/684a47ca6257e4ca71f0037771464c5b323e945fbc58697d2fad8a7dd1a2f8ba.3b69006860e7b5d0a63ffdddc01ddcd6b7c318a6f4fd793596552c741734c62d
+loading file https://huggingface.co/t5-base/resolve/main/tokenizer.json from cache at /home/HadyElkady/.cache/huggingface/transformers/90de37880b5ff5ac7ab70ff0bd369f207e9b74133fa153c163d14c5bb0116207.8627f1bd5d270a9fd2e5a51c8bec3223896587cc3cfe13edeabb0992ab43c529
+loading file https://huggingface.co/t5-base/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/t5-base/resolve/main/special_tokens_map.json from cache at None
+loading file https://huggingface.co/t5-base/resolve/main/tokenizer_config.json from cache at None
+loading configuration file https://huggingface.co/t5-base/resolve/main/config.json from cache at /home/HadyElkady/.cache/huggingface/transformers/91e9fe874e06c44883b535d6c950b8b89d6eaa3298d8e7fb3b2c78039e9f8b7b.66b9637a52aa11e9285cdd6e668cc0df14b3bcf0b6674cf3ba5353c542649637
+Model config T5Config {
+  "_name_or_path": "t5-base",
+  "architectures": [
+    "T5WithLMHeadModel"
+  ],
+  "d_ff": 3072,
+  "d_kv": 64,
+  "d_model": 768,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "relu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "t5",
+  "n_positions": 512,
+  "num_decoder_layers": 12,
+  "num_heads": 12,
+  "num_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "task_specific_params": {
+    "summarization": {
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "max_length": 200,
+      "min_length": 30,
+      "no_repeat_ngram_size": 3,
+      "num_beams": 4,
+      "prefix": "summarize: "
+    },
+    "translation_en_to_de": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to German: "
+    },
+    "translation_en_to_fr": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to French: "
+    },
+    "translation_en_to_ro": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to Romanian: "
+    }
+  },
+  "transformers_version": "4.16.2",
+  "use_cache": true,
+  "vocab_size": 32128
+}
+loading configuration file https://huggingface.co/t5-base/resolve/main/config.json from cache at /home/HadyElkady/.cache/huggingface/transformers/91e9fe874e06c44883b535d6c950b8b89d6eaa3298d8e7fb3b2c78039e9f8b7b.66b9637a52aa11e9285cdd6e668cc0df14b3bcf0b6674cf3ba5353c542649637
+Model config T5Config {
+  "architectures": [
+    "T5WithLMHeadModel"
+  ],
+  "d_ff": 3072,
+  "d_kv": 64,
+  "d_model": 768,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "relu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "t5",
+  "n_positions": 512,
+  "num_decoder_layers": 12,
+  "num_heads": 12,
+  "num_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "task_specific_params": {
+    "summarization": {
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "max_length": 200,
+      "min_length": 30,
+      "no_repeat_ngram_size": 3,
+      "num_beams": 4,
+      "prefix": "summarize: "
+    },
+    "translation_en_to_de": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to German: "
+    },
+    "translation_en_to_fr": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to French: "
+    },
+    "translation_en_to_ro": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to Romanian: "
+    }
+  },
+  "transformers_version": "4.16.2",
+  "use_cache": true,
+  "vocab_size": 32128
+}
+loading weights file https://huggingface.co/t5-base/resolve/main/pytorch_model.bin from cache at /home/HadyElkady/.cache/huggingface/transformers/ab4e948915b067f5cb6e5105f6f85044fd717b133f43240db67899a8fc7b29a2.26934c75adf19ceac3c268b721ba353356b7609c45f5627550326f275a2163b4
+All model checkpoint weights were used when initializing T5ForConditionalGeneration.
+All the weights of T5ForConditionalGeneration were initialized from the model checkpoint at t5-base.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use T5ForConditionalGeneration for predictions without further training.
+159095
+PyTorch: setting up devices
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/transformers/optimization.py:309: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use thePyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  FutureWarning,
+***** Running training *****
+  Num examples = 159095
+  Num Epochs = 3
+  Instantaneous batch size per device = 4
+  Total train batch size (w. parallel, distributed & accumulation) = 16
+  Gradient Accumulation steps = 1
+  Total optimization steps = 29832
+26578

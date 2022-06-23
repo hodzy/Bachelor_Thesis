@@ -1,0 +1,260 @@
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-1000
+Configuration saved in lower_test_trainer_with_val/checkpoint-1000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-1000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-2000
+Configuration saved in lower_test_trainer_with_val/checkpoint-2000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-2000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-3000
+Configuration saved in lower_test_trainer_with_val/checkpoint-3000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-3000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-4000
+Configuration saved in lower_test_trainer_with_val/checkpoint-4000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-4000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-5000
+Configuration saved in lower_test_trainer_with_val/checkpoint-5000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-5000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-6000
+Configuration saved in lower_test_trainer_with_val/checkpoint-6000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-6000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-1000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-7000
+Configuration saved in lower_test_trainer_with_val/checkpoint-7000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-7000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-2000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-8000
+Configuration saved in lower_test_trainer_with_val/checkpoint-8000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-8000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-3000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-9000
+Configuration saved in lower_test_trainer_with_val/checkpoint-9000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-9000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-4000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-10000
+Configuration saved in lower_test_trainer_with_val/checkpoint-10000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-10000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-5000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-11000
+Configuration saved in lower_test_trainer_with_val/checkpoint-11000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-11000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-6000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-12000
+Configuration saved in lower_test_trainer_with_val/checkpoint-12000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-12000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-7000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-13000
+Configuration saved in lower_test_trainer_with_val/checkpoint-13000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-13000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-8000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-14000
+Configuration saved in lower_test_trainer_with_val/checkpoint-14000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-14000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-9000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-15000
+Configuration saved in lower_test_trainer_with_val/checkpoint-15000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-15000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-10000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-16000
+Configuration saved in lower_test_trainer_with_val/checkpoint-16000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-16000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-11000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-17000
+Configuration saved in lower_test_trainer_with_val/checkpoint-17000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-17000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-12000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-18000
+Configuration saved in lower_test_trainer_with_val/checkpoint-18000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-18000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-13000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-19000
+Configuration saved in lower_test_trainer_with_val/checkpoint-19000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-19000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-14000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-20000
+Configuration saved in lower_test_trainer_with_val/checkpoint-20000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-20000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-15000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-21000
+Configuration saved in lower_test_trainer_with_val/checkpoint-21000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-21000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-16000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-22000
+Configuration saved in lower_test_trainer_with_val/checkpoint-22000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-22000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-17000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-23000
+Configuration saved in lower_test_trainer_with_val/checkpoint-23000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-23000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-18000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-24000
+Configuration saved in lower_test_trainer_with_val/checkpoint-24000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-24000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-19000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-25000
+Configuration saved in lower_test_trainer_with_val/checkpoint-25000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-25000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-20000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-26000
+Configuration saved in lower_test_trainer_with_val/checkpoint-26000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-26000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-21000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-27000
+Configuration saved in lower_test_trainer_with_val/checkpoint-27000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-27000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-22000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-28000
+Configuration saved in lower_test_trainer_with_val/checkpoint-28000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-28000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-23000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 26578
+  Batch size = 64
+Saving model checkpoint to lower_test_trainer_with_val/checkpoint-29000
+Configuration saved in lower_test_trainer_with_val/checkpoint-29000/config.json
+Model weights saved in lower_test_trainer_with_val/checkpoint-29000/pytorch_model.bin
+Deleting older checkpoint [lower_test_trainer_with_val/checkpoint-24000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+Training completed. Do not forget to share your model on huggingface.co/models =)
+Loading best model from lower_test_trainer_with_val/checkpoint-29000 (score: 0.010502176359295845).
