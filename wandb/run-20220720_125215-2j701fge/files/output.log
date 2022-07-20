@@ -1,0 +1,150 @@
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-500/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-1000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-1000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-1000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-1500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-1500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-1500/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-2000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-2000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-2000/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-2500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-2500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-2500/pytorch_model.bin
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-3000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-3000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-3000/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-500] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-3500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-3500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-3500/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-1000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-4000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-4000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-4000/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-1500] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-4500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-4500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-4500/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-2000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-5000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-5000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-5000/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-2500] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-5500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-5500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-5500/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-3000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-6000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-6000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-6000/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-3500] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-6500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-6500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-6500/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-4000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-7000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-7000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-7000/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-4500] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-7500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-7500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-7500/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-5000] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-8000
+Configuration saved in NEL_model_normal_shuffled/checkpoint-8000/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-8000/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-5500] due to args.save_total_limit
+/home/HadyElkady/miniconda3/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 4846
+  Batch size = 12
+Saving model checkpoint to NEL_model_normal_shuffled/checkpoint-8500
+Configuration saved in NEL_model_normal_shuffled/checkpoint-8500/config.json
+Model weights saved in NEL_model_normal_shuffled/checkpoint-8500/pytorch_model.bin
+Deleting older checkpoint [NEL_model_normal_shuffled/checkpoint-6000] due to args.save_total_limit
+Training completed. Do not forget to share your model on huggingface.co/models =)
+Loading best model from NEL_model_normal_shuffled/checkpoint-7000 (score: 0.18607528507709503).

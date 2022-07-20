@@ -1,0 +1,23 @@
+{
+    "os": "Linux-4.15.0-189-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.10",
+    "heartbeatAt": "2022-07-20T10:52:17.086897",
+    "startedAt": "2022-07-20T10:52:15.487742",
+    "docker": null,
+    "gpu": "TITAN Xp",
+    "gpu_count": 4,
+    "cpu_count": 32,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "work/Bachelor_thesis/6-NEL_trainer-Copy1.ipynb",
+    "root": "/home/HadyElkady/work/Bachelor_thesis",
+    "git": {
+        "remote": "https://github.com/hodzy/Bachelor_thesis.git",
+        "commit": "b5f27316e55b568345c5fab39f9a28b4a65b4d1f"
+    },
+    "email": "hadyelkady1996@gmail.com",
+    "host": "qrowdgpu.aksw.uni-leipzig.de",
+    "username": "HadyElkady",
+    "executable": "/home/HadyElkady/miniconda3/bin/python"
+}
