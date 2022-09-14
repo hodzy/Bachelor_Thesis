@@ -1,5 +1,7 @@
 /1-NER_Data/0-raw_data/*
+/1-NER_Data/*
 /2-NEL_Data/TREx.zip
+/2-NEL_Data/*
 /2-NEL_Data/trex_sample.json
 /test_trainer/*
 /test_trainer_with_val/*
@@ -7,6 +9,12 @@
 /NEL_model_normal/*
 /NEL_model_normal_2/*
 /NEL_model_normal_shuffled/*
-
-
+/wandb/*
+NEL_model_shuffled/*
+NEL_model_shuffled_add_spaces_in_input/*
+NER_full_sent_add_space_before_bracket_diff_seperators_v3/*
+NER_full_sent_with_pos_add_space_before_bracket_diff_seperators_v3/*
+NER_normal_with_pos_v3/*
+Relation_linking_final_sub_obj/*
+Relation_linking_without_entity_higher_patience/*
 
